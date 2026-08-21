@@ -12,7 +12,7 @@ The Sonic Desktop Environment will build on your machine. Please be patient!
 
 ## Per-Project Status
 
-Current Version: __6.7.1 / 6.27.0 !__
+Current Version: __6.7.3 / 6.29.0 !__
 
 | Project | Status | Replaces |
 | ------------- |:-------------:|:-------------:|
