@@ -26,6 +26,7 @@ mkSonicDerivation {
     kjobwidgets
     ksvg
     qtwebengine
+    polkit-qt-1
   ])
   ++ (with Sonic-DE; [
     sonic-frameworks-cmake-modules
@@ -35,6 +36,7 @@ mkSonicDerivation {
     sonic-frameworks-io
     sonic-frameworks-runner
     sonic-interface-libraries
+    sonic-frameworks-via
   ]);
 
   propagatedDependencies = with pkgs; [
@@ -44,6 +46,7 @@ mkSonicDerivation {
   ];
 
   extraNativeBuildInputs = with pkgs; [
+    pkg-config
   ];
 
   extraCmakeFlags = with pkgs; [
