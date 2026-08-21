@@ -28,7 +28,7 @@ Current Version: __6.7.3 / 6.29.0 !__
 | sonic-frameworks-io                            | Working!                                                              | kio                                                                   |
 | sonic-frameworks-keybind                       | Working!                                                              | kglobalaccel                                                          |
 | sonic-frameworks-runner                        | Working!                                                              | krunner                                                               |
-| sonic-frameworks-via                           | Working!                                                              | kwindowsystem                                                         |
+| sonic-frameworks-via                           | Working!                                                              | N/A                                                                   |
 | sonic-frameworks-windowsystem                  | Working!                                                              | kwindowsystem                                                         |
 | sonic-interface-libraries                      | Working!                                                              | libplasma                                                             |
 | sonic-keybind-daemon                           | Working!                                                              | kglobalacceld                                                         |
