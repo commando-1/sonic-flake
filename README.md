@@ -16,7 +16,7 @@ Current Version: __6.7.1 / 6.27.0 !__
 
 | Project | Status | Replaces |
 | ------------- |:-------------:|:-------------:|
-| silver-theme                                   | Working?                                                              | N/A                                                                   |
+| silver-theme                                   | Working!                                                              | N/A                                                                   |
 | sonic-audio-applet-pulse                       | Working!                                                              | plasma-pa                                                             |
 | sonic-activities                               | Working!                                                              | plasma-activities                                                     |
 | sonic-decoration                               | Working!                                                              | kdecoration                                                           |
@@ -28,6 +28,7 @@ Current Version: __6.7.1 / 6.27.0 !__
 | sonic-frameworks-io                            | Working!                                                              | kio                                                                   |
 | sonic-frameworks-keybind                       | Working!                                                              | kglobalaccel                                                          |
 | sonic-frameworks-runner                        | Working!                                                              | krunner                                                               |
+| sonic-frameworks-via                           | Working!                                                              | kwindowsystem                                                         |
 | sonic-frameworks-windowsystem                  | Working!                                                              | kwindowsystem                                                         |
 | sonic-interface-libraries                      | Working!                                                              | libplasma                                                             |
 | sonic-keybind-daemon                           | Working!                                                              | kglobalacceld                                                         |
