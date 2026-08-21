@@ -42,12 +42,14 @@ mkSonicDerivation {
   ])
   ++ (with Sonic-DE; [
     sonic-frameworks-io
+    sonic-frameworks-via
   ]);
 
   propagatedDependencies = with pkgs; [
   ];
 
   extraNativeBuildInputs = with pkgs; [
+    pkg-config
   ];
 
   extraCmakeFlags = with pkgs; [

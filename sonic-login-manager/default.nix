@@ -21,6 +21,7 @@ mkSonicDerivation {
     pam
     utmps
     libcap
+    libxcursor
   ] 
   ++ (with pkgs.kdePackages; [
     kconfig
